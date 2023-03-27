@@ -1,0 +1,21 @@
+{
+  "name": "gantt-hansa-js",
+  "version": "1.0.4",
+  "description": "An library for gantt diagrams",
+  "main": "src/index.js",
+  "types": "src/js/index.d.ts",
+  "files": [
+    "src/css/style.css"
+  ],
+  "keywords": [
+    "gantt"
+  ],
+  "scripts": {
+    "build": ""
+  },
+  "author": "JRafael <jrafael@hansa.com.bo>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.0.2"
+  }
+}
